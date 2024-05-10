@@ -1,4 +1,4 @@
-Patient First Name,Patient Last Name,Appointment Location,Appointment Provider,Resource Provider,Appointment Date,Appointment Time,Appointment Created By,Appointment Created On,Appointment Visit Type,Payer,Date Of Birth
+﻿Patient First Name,Patient Last Name,Appointment Location,Appointment Provider,Resource Provider,Appointment Date,Appointment Time,Appointment Created By,Appointment Created On,Appointment Visit Type,Payer,Date Of Birth
 Aaiden,Martinez,Mendez,"Marissa Jennings, PA-C",mjennings,45303,1:00PM,"Ruiz, Iliana",45303,15 Min,,40494
 Aaron,Castaneda,Mobile3,Eva Madrueno,emadrueno,45310,8:20AM,"Ayala, Azuzena",45310,20 Min,La Care Medi Cal HCLA,34522
 Aaron,Jones,MLK,"Alexander Panis, FNP",apanis,45318,10:00AM,"Rosero, Brenda",45318,15 Min,La Care Medi Cal HCLA,33498
